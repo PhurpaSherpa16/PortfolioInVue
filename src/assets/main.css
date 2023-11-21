@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500&family=Poppins:wght@500&display=swap');
+
+*:focus {
+    outline: none;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 1.6rem;
+}
